@@ -8,27 +8,27 @@
       "color": "Rosa",
       "talla": "M",
       "categoria": "Pijamas",
-      "imagen": "https://i.imgur.com/LdjUOlh.jpg"
+      "imagen": "https://github.com/CAFM3/Basic-Json/blob/main/1.jpg?raw=true"
     },
     {
       "id": 2,
-      "nombre": "Pijama de Seda",
-      "descripcion": "Pijama lujosa hecha de seda, para un confort inigualable.",
-      "precio": "$119.900 COP",
-      "color": "Azul",
-      "talla": "M",
-      "categoria": "Pijamas",
-      "imagen": "https://i.imgur.com/s6CbQtY.jpg"
-    },
-    {
-      "id": 3,
       "nombre": "Falda Plisada",
       "descripcion": "Falda elegante con pliegues, perfecta para eventos formales.",
       "precio": "$69.900 COP",
       "color": "Negro",
       "talla": "S",
       "categoria": "Faldas",
-      "imagen": "https://i.imgur.com/6M3m0ty.jpg"
-    }
+      "imagen": "https://github.com/CAFM3/Basic-Json/blob/main/2.jpg?raw=true"
+    },
+    {
+      "id": 3,
+      "nombre": "Pijama de Seda",
+      "descripcion": "Pijama lujosa hecha de seda, para un confort inigualable.",
+      "precio": "$119.900 COP",
+      "color": "Azul",
+      "talla": "M",
+      "categoria": "Pijamas",
+      "imagen": "https://github.com/CAFM3/Basic-Json/blob/main/3.jpg?raw=true"
+    },
   ]
 }
