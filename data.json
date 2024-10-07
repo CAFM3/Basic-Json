@@ -6,7 +6,7 @@
       "descripcion": "Pijama suave y cómoda, perfecta para el descanso.",
       "precio": "49.900",
       "color": "Rosa",
-      "talla": "M",
+      "talla": ["XS", "S", "M", "L"],
       "categoria": "Pijamas",
       "imagen": "https://github.com/CAFM3/Basic-Json/blob/main/1.jpg?raw=true"
     },
@@ -16,7 +16,7 @@
       "descripcion": "Falda elegante con pliegues, perfecta para eventos formales.",
       "precio": "69.900",
       "color": "Negro",
-      "talla": "S",
+      "talla": ["S", "M", "L", "XL"],
       "categoria": "Faldas",
       "imagen": "https://github.com/CAFM3/Basic-Json/blob/main/2.jpg?raw=true"
     },
@@ -26,7 +26,7 @@
       "descripcion": "Pijama lujosa hecha de seda, para un confort inigualable.",
       "precio": "119.900",
       "color": "Azul",
-      "talla": "M",
+      "talla": ["S", "M", "L", "2XL"],
       "categoria": "Pijamas",
       "imagen": "https://github.com/CAFM3/Basic-Json/blob/main/3.jpg?raw=true"
     }
